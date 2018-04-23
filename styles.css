@@ -1,0 +1,28 @@
+.header{
+	display:table;
+	width:100%;
+	height:auto;
+	text-align:left;
+	color:#fff;
+	background-color:#000;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+}
+.text-right{
+	text-align: right;
+}
+.heading-text{
+	font-size: 122pt;
+	padding-left: 50pt;
+}
+.text-center{
+	text-align: center;
+}
+
+div {
+	padding: 1pt 0 0 0;
+	border: 0pt;
+	margin: 0pt;
+}
