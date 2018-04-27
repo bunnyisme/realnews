@@ -13,7 +13,7 @@ setcookie($cookiename, "test", time() + 3600, '/');
 
 <!-- Create landing page -->
 <div class = "header"">
-	<h1 class = "heading-text">Fake news? <br />Biased news? <br /> <strong>No.</strong></h1>
+	<h1 class = "heading-text hidden">Fake news? <br />Biased news? <br /> <strong>No.</strong></h1>
 </div>
 
 <?php 
